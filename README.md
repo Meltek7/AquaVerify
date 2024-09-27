@@ -38,8 +38,8 @@ To deploy this project on the Internet Computer:
    sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)"
 
 2. Clone the Repository:
-git clone https://github.com/YOUR_GITHUB_USERNAME/SensorChain.git
-cd SensorChain
+git clone https://github.com/Meltek7/AquaVerify.git
+cd AquaVerify
 
 3. Start Local Development Environment:
    dfx start --background
